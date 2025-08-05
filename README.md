@@ -1,5 +1,11 @@
 # PortfoliOmatic
 
+This is my fork of PortfoliOmatic (https://github.com/thejus03/PortfoliOmatic), to which I contributed.
+
+## My Contributions
+
+You can see my contributions in the original repository’s commit history (https://github.com/thejus03/PortfoliOmatic/commits?author=samuelcg20).
+
 ### Installation
 
 1. Clone the repository
